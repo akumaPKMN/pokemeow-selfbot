@@ -4,7 +4,7 @@ This bot will grind PokeMeow for you. Written with efficiency, this bot will cat
 
 Youtube - https://www.youtube.com/shorts/Voc5RGRKnbA
 
-Interested? Discord Server https://discord.gg/ewKqGcMayq or add me on Discord AKUMA#0131 
+Interested? Telegram Server: https://t.me/+F8y0vnXJ3ipjNjRh
 
 ## Features
 - **SERVERSIDED BUILTIN CAPTCHA** (97% Solving Accuracy)
