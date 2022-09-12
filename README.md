@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/kAytEKX.png">
 This bot will grind PokeMeow for you. Written with efficiency, this bot will catch Pokemon for you with a lot of customizable settings.
 
-Youtube - https://www.youtube.com/shorts/Voc5RGRKnbA
+Youtube - https://www.youtube.com/watch?v=NuT0sEXOZoU
 
 Interested? Telegram Server: https://t.me/+F8y0vnXJ3ipjNjRh
 
