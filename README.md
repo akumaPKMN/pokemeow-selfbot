@@ -4,8 +4,6 @@ This bot will grind PokeMeow for you. Written with efficiency, this bot will cat
 
 Youtube - https://www.youtube.com/watch?v=NuT0sEXOZoU
 
-Interested? Telegram Server: https://t.me/+F8y0vnXJ3ipjNjRh
-
 ## Features
 - **SERVERSIDED BUILTIN CAPTCHA** (97% Solving Accuracy)
 - **Randomized** Human Delay (avoid suspicious detections)
