@@ -2,17 +2,20 @@
 <img src="https://i.imgur.com/kAytEKX.png">
 This bot will grind PokeMeow for you. Written with efficiency, this bot will catch Pokemon for you with a lot of customizable settings.
 
-Youtube - https://www.youtube.com/watch?v=NuT0sEXOZoU
+<br>Youtube Video - 
+https://www.youtube.com/watch?v=NuT0sEXOZoU
 
 Telegram Server - 
 https://t.me/+cwLE9rPzDnw0MWJh
 
+Instructions - 
+https://docs.google.com/document/d/1f7Hs9fnSpzPKbVJw3UOB_pomy1CKPdwC5gcb2dAJo04/edit?usp=sharing
+
 ## Features
-- **SERVERSIDED BUILTIN CAPTCHA** (97% Solving Accuracy)
-- **Randomized** Human Delay (avoid suspicious detections)
-- Pokemon Grind Mode (grind ;p)
-- Fishing Grind Mode (grind ;f)
-- **Mixed Grind Mode (grinds ;p and ;f)**
+- **SERVERSIDED BUILTIN CAPTCHA** (98% Solving Accuracy)
+- Pokemon Grind Mode (Automatic /pokemon)
+- Fishing Grind Mode (Automatic /fish spawn)
+- **Mixed Grind Mode (Automatic /pokemon and /fish spawn)**
 - Auto Shop (automatically buys Pokeballs for you)
 - Auto Throw (throws out specific Pokeballs based on type)
 - **Auto Egg (toggleable, ;egg hold and ;egg hatch)**
