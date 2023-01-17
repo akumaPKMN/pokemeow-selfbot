@@ -13,6 +13,7 @@ https://docs.google.com/document/d/1f7Hs9fnSpzPKbVJw3UOB_pomy1CKPdwC5gcb2dAJo04/
 
 ## Features
 - **SERVERSIDED BUILTIN CAPTCHA** (98% Solving Accuracy)
+- Multiple account support
 - Pokemon Grind Mode (Automatic /pokemon)
 - Fishing Grind Mode (Automatic /fish spawn)
 - **Mixed Grind Mode (Automatic /pokemon and /fish spawn)**
