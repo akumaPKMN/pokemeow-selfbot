@@ -12,6 +12,9 @@ https://t.me/+cwLE9rPzDnw0MWJh
 Instructions - 
 https://docs.google.com/document/d/1f7Hs9fnSpzPKbVJw3UOB_pomy1CKPdwC5gcb2dAJo04/edit?usp=sharing
 
+Trial Version -
+https://github.com/akumaPKMN/pokemeow-grinder/releases/tag/trialv5
+
 ## Features
 - **SERVERSIDED BUILTIN CAPTCHA** (98% Solving Accuracy)
 - Multiple account support
