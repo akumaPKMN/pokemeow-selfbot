@@ -6,8 +6,8 @@ This bot will grind PokeMeow for you. Written with efficiency, this bot will cat
 <br> https://www.youtube.com/watch?v=mIDFenbmqVA - RECENT
 <br> https://www.youtube.com/watch?v=NuT0sEXOZoU
 
-Telegram Server - 
-https://t.me/+cwLE9rPzDnw0MWJh
+Discord Server -
+https://discord.gg/Ht5Kj2xC
 
 Instructions - 
 https://docs.google.com/document/d/1f7Hs9fnSpzPKbVJw3UOB_pomy1CKPdwC5gcb2dAJo04/edit?usp=sharing
