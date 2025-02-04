@@ -16,38 +16,34 @@ Trial Version -
 https://github.com/akumaPKMN/pokemeow-grinder/releases/tag/trialv5
 
 ## Features
-- **SERVERSIDED BUILTIN CAPTCHA** (98% Solving Accuracy)
-- Multiple account support
-- Pokemon Grind Mode (Automatic /pokemon)
-- Fishing Grind Mode (Automatic /fish spawn)
-- **Mixed Grind Mode (Automatic /pokemon and /fish spawn)**
-- Auto Shop (automatically buys Pokeballs for you)
-- Auto Throw (throws out specific Pokeballs based on type)
-- **Auto Egg (toggleable, ;egg hold and ;egg hatch)**
-- Auto Repel (toggleable, ;repel all)
-- Auto Lootbox (toggleable, ;lb all)
-- Captcha Notifications
-- Found Item Notifications
-- Sound Notifications
-- Discord Webhook Notifications
+🦾 **Automates everything a Pokemeow player does!**
+- Hunting `(/pokemon)`
 
-## Configurable Ball Catch Types
-Options: "pokeball", "greatball", "ultraball", "masterball", "diveball", "premierball"
+- Fishing `(/fish spawn)`
 
-heldItem
+- Swapping `(/swap)`
 
-shinyEvent
-event
+- Purchase PokeBalls `(/shop buy)`
 
-fullOdds
-shiny
+- Daily hunt registering and handling `(/hunt)`
 
-legendary
-superRare
-rare
-uncommon
-common
+- Checklist tasks `(/daily, /hunt, /quest, /catchbot, /swap)`
 
-fishingLegendary
-fishingSpecial (shiny/golden)
-fishingCommon
+- Player tasks `(/egg, /lootbox, /grazz, /repel, /release duplicate)`
+
+👥 **Run Multiple Discord Accounts**
+
+🔧 **Extensive & individualized configuration system**
+
+⌛ **Solves captchas automatically with ~98% accuracy & retries if fail**
+
+🔔 **Sends webhooks notifications to let you know about events**
+
+📜 **Quest reroller for unwanted quests, or reroll until a certain quest is achieved**
+> Automatically reroll unwanted quests based on specific keywords
+
+📡 **Configurable custom captcha solver support (2captcha, anti-captcha)**
+> Allows you to use captcha solving websites as a backup to solve captchas
+
+⚙️ **Lightweight and efficient software**
+> Greatly reduces RAM and CPU usage so this selfbot can run in the background
