@@ -9,8 +9,8 @@ This bot will grind PokeMeow for you. Written with efficiency, this bot will cat
 Discord Server -
 https://discord.gg/X69RAw9C7d
 
-Instructions - 
-https://docs.google.com/document/d/1f7Hs9fnSpzPKbVJw3UOB_pomy1CKPdwC5gcb2dAJo04/edit?usp=sharing
+Setup Guide Instructions - 
+https://docs.google.com/document/d/1vLtLiJALrwr5h_560g5w39dMk1b3WkeTo3cPeQjem8g/
 
 Trial Version -
 https://github.com/akumaPKMN/pokemeow-grinder/releases/tag/trialv5
